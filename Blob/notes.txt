@@ -1,1 +1,13 @@
+Blob:
+
+1. What's Blob?
+Blob is Binary Large Object, it's normally a type of storage, we call it "blob storage".
+
+2. Why we introduce Blob? What's the problem blob storage solved than other storage?
+Normally we have traditional storage like file storage or block storage:
+- File storage is stored with hierachy, think how you store your file in your computer. Use case: document storage.
+- block storage: The data are divided into blocks and each block has its own identifier. Use case: database(SQL and NoSQL).
+For some large size data like media data or big image data, we can use "Object Storage" to store those data, and blob is one of the Object Storage.
+
+
 
